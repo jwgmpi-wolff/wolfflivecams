@@ -10,13 +10,13 @@ A production-ready starter for a Python FastAPI app with:
 
 ## Deploy To Azure Button
 
-After this repo is pushed to GitHub, replace `<YOUR_GITHUB_USER>` and `<YOUR_REPO>` below if needed.
+Use this button to deploy directly from this repository.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F%3CYOUR_GITHUB_USER%3E%2F%3CYOUR_REPO%3E%2Fmain%2Finfra%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjerrywolff_microsoft%2Fwolfflivecams%2Fmain%2Finfra%2Fazuredeploy.json)
 
-Example for this project name once published:
+Direct link:
 
-`https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjerrywolff_microsoft%2Fwolfflivecams%2Fmain%2Finfra%2Fazuredeploy.json`
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjerrywolff_microsoft%2Fwolfflivecams%2Fmain%2Finfra%2Fazuredeploy.json
 
 ## Project Structure
 
