@@ -8,6 +8,15 @@ A production-ready starter for a Python FastAPI app with:
 - GitHub Actions workflow for Azure deploy
 - Full Copilot regeneration prompt
 
+<!-- project-downloads:start -->
+## APK and installer downloads
+
+No packaged APK or desktop installer is currently published for this repository. The source archive below is not an installer; use the project-specific setup and build instructions.
+
+- [Download the complete source ZIP](https://github.com/jwgmpi-wolff/wolfflivecams/archive/refs/heads/main.zip).
+- [Setup script: deploy-local.ps1](./deploy-local.ps1) (download and extract the complete source ZIP first).
+<!-- project-downloads:end -->
+
 ## Deploy To Azure Button
 
 Use this button to deploy directly from this repository.
@@ -166,3 +175,9 @@ Requirements:
 
 - `deploy-azure.ps1` uses Azure CLI and your signed-in identity.
 - For production hardening, add custom domain, managed identity, and secrets in Azure Key Vault.
+
+## Copyright
+
+Copyright (c) 2026 Jerry Wolff. See [COPYRIGHT](COPYRIGHT) for the scope of this
+notice. Existing licenses and third-party attribution remain unchanged; this
+notice does not grant additional permissions.
